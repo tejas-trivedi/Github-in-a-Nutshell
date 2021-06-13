@@ -1,0 +1,81 @@
+what is email marketing
+
+INTRODUCTION
+
+Email Marketing is made up of two words email and marketing. Marketing means promoting products and services to the people whether online such as using social media, giving reviews on a product/service in the form of published post, start blogging, guest blogging, email marketing, affiliate marketing, creating an ecommerce website etc whereas on the other hand  TV Advertisement, Posting banners on roadside, flyovers, creating pamplets, holding contest, sending Seasonal cards, organising workshops etc comes in the category of offline marketing.
+
+Email is a tool by which we send a message to other people whether it is important or not. And now comes to our topic that is Email Marketing.
+Marketing or promoting the products and services by using this email tool is what we called as email marketing. Companies use email marketing to send messages to their customers. Companies send messages regarding changes, updates regarding to their products/services, mail regarding new product came in the market, mail regarding if any customer become their affiliate partner they will give some commission, discounts on some products/services, if suppose it is a ecommerce website they can send you a thankyou email and something like that.
+
+Here are some interesting facts and figures Email Marketing:
+
+. More than 290 billion email were sent and received by the people each day in the year 2019.
+. More than 70% of small Businesses are dependent on email marketing all over the world.
+. It is estimated that the usage of email would increase to 345 Billion emails per day till the year 2022.
+.It has Good ROI(Return on Investment) i.e for every 1$ spend on email marketing business get the average return of 42$.
+. Around 50% of the customers like to receive emails from their favourite brands.
+.Around 50% of emails are opened on mobile phones.
+This shows that the scope of email marketing will increase day by day and it will be great opportunity for those businesses that have limited resources and can't afford much investment on marketing their products/services.
+
+Here are some of the best courses which can help you boost your career in Email Marketing:
+Free courses
+1) https://www.emarketinginstitute.org/free-courses/email-marketing-certification-course/
+
+2) https://academy.hubspot.com/courses/email-marketing
+
+3)https://www.udemy.com/course/email-marketing-made-easy-for-beginners/
+paid courses
+1)https://www.udemy.com/course/mailchimp-email-marketing/
+
+2)https://www.simplilearn.com/digital-marketing/email-marketing-certification-training
+
+3)https://www.udemy.com/course/mailchimp-email-marketing/
+
+Here are some career Opportunities in Email Marketing:
+1)Digital Marketing Manager
+
+2)Chief Marketing Officer
+
+3) A Marketing Consultant
+
+4) CRM Manager
+
+https://www.cv-library.co.uk/career-advice/start/career-guides/5-career-paths-email-marketers/
+Conclusion:
+
+Congratulations, Now You understood the concept of email marketing and I hope this article would raise interest in you regarding email marketing. If you liked my article and want to read more such articles to boost your knowledge then go to the link:http://digitalgarage2002.blogspot.com
+
+
+EIYHL9FNFD - Bitdegree coupon code
+
+
+
+User-agent: Media partners-Google
+Disallow:
+User-agent: *
+Disallow: /search
+Allow: /
+Sitemap:https://foodkagyaan.blogspot.com/atom.xml?redirect=false&start-index=1&max-results=500
+
+ <script async='async' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js'/>
+<script>
+  window.OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: &quot;e54c3987-fd6d-41e3-a182-36e9bb6218a9&quot;,
+    });
+  });
+</script>
+
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script src='//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-60ba5f91688c4a44' type='text/javascript'/>
+ 
+
+
+
+
+
+
+
+
